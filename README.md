@@ -4,3 +4,9 @@ En la versión actual el escáner valida los 65535 puertos, este rango puede ser
 
 ## Syntaxis
 > python3 portscanner.py <IP>
+
+  
+  ## ToDo
+> Aceptar rangos de IP's.
+> Cargar IP's de archivo.
+> Ejecutar Nmap de los puertos identificados.
