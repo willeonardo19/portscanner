@@ -7,6 +7,7 @@ En la versión actual el escáner valida los 65535 puertos, este rango puede ser
 
   
   ## ToDo
-> Aceptar rangos de IP's.
-> Cargar IP's de archivo.
-> Ejecutar Nmap de los puertos identificados.
+>
+  - Aceptar rangos de IP's.
+  - Cargar IP's de archivo.
+  - Ejecutar Nmap de los puertos identificados.
