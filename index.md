@@ -1,6 +1,6 @@
 ## PortScanner
 
-El escáner de puertos de red fue desarrollado en -Python- con fines didácticos, mejorando la comprensión de los procesos que se realizan al momento de ejecutar un escaneo de puertos (ver curso -[Pentesting Fundamentals]-(https://tryhackme.com/room/pentestingfundamentals)). En la versión actual el escáner valida los 65535 puertos, este rango puede ser modificado según la discreción del usuario, almacenando los resultados en un archivo de texto. 
+El escáner de puertos de red fue desarrollado en -Python- con fines didácticos, mejorando la comprensión de los procesos que se realizan al momento de ejecutar un escaneo de puertos (ver curso -[Pentesting Fundamentals](https://tryhackme.com/room/pentestingfundamentals))-. En la versión actual el escáner valida los 65535 puertos, este rango puede ser modificado según la discreción del usuario, almacenando los resultados en un archivo de texto. 
 
 ### ¿Que es un Python?
 
