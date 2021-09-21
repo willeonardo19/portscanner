@@ -4,14 +4,14 @@ El escáner de puertos de red fue desarrollado en -Python- con fines didácticos
 
 ### ¿Que es un Python?
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+-[Python](https://es.wikipedia.org/wiki/Python)- es un lenguaje de programación interpretado cuya filosofía hace hincapié en la legibilidad de su código. Se utiliza a menudo para crear sitios web y software, automatizar tareas y realizar análisis de datos. Python es un lenguaje de propósito general, lo que significa que se puede usar para crear una variedad de programas diferentes y no está especializado para ningún problema específico.
 
 ### ¿Que es un Puerto?
 
-En informática, un -[puerto](https://es.wikipedia.org/wiki/Puerto_(inform%C3%A1tica))- es una interfaz a través de la cual se pueden enviar y recibir los diferentes tipos de datos. Los puertos están estandarizados en todos los dispositivos conectados a la red, y a cada puerto se le asigna un número. La mayoría de los puertos están reservados para ciertos protocolos; por ejemplo, todos los mensajes del Protocolo de transferencia de hipertexto (HTTP) van al puerto 80. Mientras que las direcciones IP permiten que los mensajes vayan hacia y desde dispositivos específicos, los números de puerto permiten la orientación de servicios o aplicaciones específicos dentro de esos dispositivos.
+En informática, un -[puerto](https://es.wikipedia.org/wiki/Puerto_(inform%C3%A1tica))- es una interfaz a través de la cual se pueden enviar y recibir los diferentes tipos de datos. Los puertos están estandarizados en todos los dispositivos conectados a la red, y a cada puerto se le asigna un número. La mayoría de los puertos están reservados para ciertos protocolos; por ejemplo, todos los mensajes del Protocolo de transferencia de hipertexto (HTTP) van al puerto 80. Mientras que las direcciones IP permiten que los mensajes vayan hacia y desde dispositivos específicos, los números de puerto permiten la orientación de servicios o aplicaciones específicas dentro de esos dispositivos.
 
 
-### ¿Que es un Python?
+### ¿Que es un Escaner de puertos?
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
