@@ -18,7 +18,7 @@ El término [escáner de puertos](https://es.wikipedia.org/wiki/Esc%C3%A1ner_de_
 
 ### ¿Cómo funciona portscanner?
 
-El escáner utiliza sockets para validar los puertos abiertos de una dirección IPv4.
+El escáner utiliza sockets para validar los puertos abiertos de una dirección IPv4, basado en la respuesta obtenida, cero indica puerto abierto.
 
 ```markdown
 Sintax para utilizar el script.
