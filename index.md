@@ -1,12 +1,19 @@
-## Welcome to GitHub Pages
+## PortScanner
 
-You can use the [editor on GitHub](https://github.com/willeonardo19/portscanner/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+El escáner de puertos fue desarrollado en Python con fines didácticos, mejorando la comprensión de los procesos que se realizan al momento de ejecutar un escaneo de puertos (ver curso -Pentesting Fundamentals- [editor on GitHub](https://tryhackme.com/room/pentestingfundamentals)). En la versión actual el escáner valida los 65535 puertos, este rango puede ser modificado según la discreción del usuario, almacenando los resultados en un archivo de texto. 
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### ¿Que es un Puerto?
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+
+
+### ¿Que es un Python?
+
+Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+
+
 
 ```markdown
 Syntax highlighted code block
