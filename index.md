@@ -27,3 +27,5 @@ python3 portscanner.py <IP>
 ```
 
 ![PortScanner](/master/assets/pythonscanner.png)
+![PortScanner](/assets/pythonscanner.png)
+![PortScanner](/pythonscanner.png)
