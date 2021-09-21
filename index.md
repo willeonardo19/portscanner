@@ -18,19 +18,9 @@ El término [escáner de puertos](https://es.wikipedia.org/wiki/Esc%C3%A1ner_de_
 
 
 ```markdown
-Syntax highlighted code block
+Sintax para utilizar el script.
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
+**python3 portscanner.py <IP>**
 
 [Link](url) and ![Image](src)
 ```
