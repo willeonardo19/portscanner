@@ -20,9 +20,7 @@ El término [escáner de puertos](https://es.wikipedia.org/wiki/Esc%C3%A1ner_de_
 ```markdown
 Sintax para utilizar el script.
 
--python3 portscanner.py <IP>-
-
-[Link](url) and ![Image](src)
+python3 portscanner.py <IP>
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
