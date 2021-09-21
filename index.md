@@ -13,7 +13,7 @@ En informática, un -[puerto](https://es.wikipedia.org/wiki/Puerto_(inform%C3%A1
 
 ### ¿Que es un Escaner de puertos?
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+El término -[escáner de puertos](https://es.wikipedia.org/wiki/Esc%C3%A1ner_de_puertos)- o escaneo de puertos se emplea para designar la acción de analizar por medio de un programa el estado de los puertos de una máquina conectada a una red de comunicaciones. Detecta si un puerto está abierto, cerrado, o protegido por un cortafuegos. Los administradores de seguridad de red utilizan principalmente escáneres de puertos para escanear y monitorear puertos de red en un sistema, servidor o entorno de TI.
 
 
 
